@@ -1,0 +1,5 @@
+ro.omc.build.version=M105FODM4CVB1
+ro.omc.build.id=49135437
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE
